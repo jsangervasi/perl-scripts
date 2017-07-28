@@ -4,7 +4,7 @@
 #     DOWNLOADS LIST OF MP3'S FROM A GOOGLE SEARCH
 #     EXAMPLE SEARCH: "index of" mp3 <artist> <album>
 #     EXAMPLE URL: perl getmp3.pl http://notfound.land/zik/Nirvana/MTV%20_%20Unplugged%20In%20New%20York/ Nirvana-MTV
-#     Author Joe Sangervasi <jsangervasi@gmail.com>
+#     Author Joe Sangervasi <jsangervasi at gmail dot com>
 #     Modified 7/27/2017 
 ##################################################################
 ##################################################################
